@@ -1,0 +1,8 @@
+#Number	#min	#max	#key	#number_of_files	#files
+1	50	300	@1p	1			material.dat
+2	100	10000	@2p	1			material.dat
+3	0.01	10.	@3p	1			material.dat
+4	1000	100000	@4p	1			material.dat
+5	10	1000	@5p	1			material.dat
+6	10000	1.E6	@6p	1			material.dat
+7	10	10000	@7p	1			material.dat
